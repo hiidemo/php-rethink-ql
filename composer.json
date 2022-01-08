@@ -1,5 +1,5 @@
 {
-    "name": "tbolier/php-rethink-ql",
+    "name": "hiidemo/php-rethink-ql",
     "description": "A clean and solid RethinkDB driver for PHP.",
     "type": "library",
     "license": "Apache-2.0",
